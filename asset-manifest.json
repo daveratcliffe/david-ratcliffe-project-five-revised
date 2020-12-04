@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/david-ratcliffe-project-five-revised/static/css/main.0692656b.chunk.css",
+    "main.js": "/david-ratcliffe-project-five-revised/static/js/main.ae4f4527.chunk.js",
+    "main.js.map": "/david-ratcliffe-project-five-revised/static/js/main.ae4f4527.chunk.js.map",
+    "runtime-main.js": "/david-ratcliffe-project-five-revised/static/js/runtime-main.1961ac22.js",
+    "runtime-main.js.map": "/david-ratcliffe-project-five-revised/static/js/runtime-main.1961ac22.js.map",
+    "static/js/2.853a0b13.chunk.js": "/david-ratcliffe-project-five-revised/static/js/2.853a0b13.chunk.js",
+    "static/js/2.853a0b13.chunk.js.map": "/david-ratcliffe-project-five-revised/static/js/2.853a0b13.chunk.js.map",
+    "static/js/3.e38bf832.chunk.js": "/david-ratcliffe-project-five-revised/static/js/3.e38bf832.chunk.js",
+    "static/js/3.e38bf832.chunk.js.map": "/david-ratcliffe-project-five-revised/static/js/3.e38bf832.chunk.js.map",
+    "index.html": "/david-ratcliffe-project-five-revised/index.html",
+    "static/css/main.0692656b.chunk.css.map": "/david-ratcliffe-project-five-revised/static/css/main.0692656b.chunk.css.map",
+    "static/js/2.853a0b13.chunk.js.LICENSE.txt": "/david-ratcliffe-project-five-revised/static/js/2.853a0b13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/david-ratcliffe-project-five-revised/static/media/slide-projectors-4.fe3d43d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1961ac22.js",
+    "static/js/2.853a0b13.chunk.js",
+    "static/css/main.0692656b.chunk.css",
+    "static/js/main.ae4f4527.chunk.js"
+  ]
+}
