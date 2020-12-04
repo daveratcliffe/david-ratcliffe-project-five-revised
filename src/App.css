@@ -192,8 +192,7 @@ li {
   transform: translateX(-100%) rotateY(-180deg);
 }
 .polaroidSide {
-  background-image: url(./assets/polaroid1.png);
-  background-size: cover;
+  background-color: #DEDFDE;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -259,7 +258,7 @@ li {
   }
   .turnText {
     width: 300px;
-    left: 50px;
+    left: 30px;
   }
   .sideBack p {
     height: 370px;
